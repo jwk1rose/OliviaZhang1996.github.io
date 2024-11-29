@@ -1,6 +1,6 @@
 .container {
     width: 100%;
-    max-width: 1200px;  /* 你可以设置一个更大的宽度 */
+    max-width: 3000px;  /* 你可以设置一个更大的宽度 */
     margin: 0 auto;  /* 居中容器 */
     border: 1px solid #d3d3d3;
 }
