@@ -1,10 +1,15 @@
 .container {
-    width:100%;
-    border:1px solid #d3d3d3;
+    width: 100%;
+    max-width: 1200px;  /* 你可以设置一个更大的宽度 */
+    margin: 0 auto;  /* 居中容器 */
+    border: 1px solid #d3d3d3;
 }
+
 .container div {
-    width:100%;
+    display: inline-block;  /* 或者使用 flex 布局 */
+    width: auto;  /* 适应内容宽度 */
 }
+
 .container .header {
     background-color:#d3d3d3;
     padding: 2px;
