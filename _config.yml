@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yin Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Robotics and Perception"
+  location         : "Hangzhou, China"
+  employer         : "Zhejiang University, Westlake University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhangyin@westlake.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
