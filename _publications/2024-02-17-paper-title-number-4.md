@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Domain Adaptive Detection of MAVs: A Benchmark and Noise Suppression Network"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
