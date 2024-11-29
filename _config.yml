@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yin Zhang / Site Title"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yin Zhang"
 description              : &description "personal description"
 url                      : https://OliviaZhang1996.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yin Zhang"
+  name             : "Yin Zhang"(张尹)
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate, Robotics and Perception"
   location         : "Hangzhou, China"
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -73,15 +73,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
